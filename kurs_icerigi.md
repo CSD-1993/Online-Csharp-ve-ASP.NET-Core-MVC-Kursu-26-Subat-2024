@@ -1,4 +1,4 @@
-# Online CSharp ile Nesne Yönelimli Programlama Kursu
+# Online CSharp ile Nesne Yönelimli Programlama Kursu - İçerik
 
 ## Temel kavramlar
 + .NET ortamına ilişkin temel kavramlar (JIT, MSIL, CLR, CTS, CLS...)
@@ -285,4 +285,5 @@
 + Dosya işlemleri
 + Örnek programlar
 
+## Ön Kayıt
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZwtf-uuqTMjHNwZj_SpbLT7f24qBT-Yy95T)
