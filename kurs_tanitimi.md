@@ -28,7 +28,7 @@ __[Eğitimin içeriğini bu bağlantıyı tıklayarak inceleyebilirsiniz.](https
 
 
 ## Format
-+ __CSharp ile Nesne Yönelimli Programlama kursu*__ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __CSharp ile Nesne Yönelimli Programlama kursu*__ online olarak gerçek zamanlı verilmektedir. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
