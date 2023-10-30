@@ -285,5 +285,4 @@
 + Dosya işlemleri
 + Örnek programlar
 
-+ + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZwtf-uuqTMjHNwZj_SpbLT7f24qBT-Yy95T)
-
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZwtf-uuqTMjHNwZj_SpbLT7f24qBT-Yy95T)
