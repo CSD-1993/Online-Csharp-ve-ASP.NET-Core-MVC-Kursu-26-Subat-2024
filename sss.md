@@ -45,4 +45,5 @@ Eğer daha önce programlama ile tanışmadıysanız bu kursa katılmanız uygun
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
 
+## Ön Kayıt
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZwtf-uuqTMjHNwZj_SpbLT7f24qBT-Yy95T)
