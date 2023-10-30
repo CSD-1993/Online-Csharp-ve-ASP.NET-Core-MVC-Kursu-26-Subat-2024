@@ -24,7 +24,7 @@ Dersler __Pazartesi - Çarşamba__ günleri saat __19-30 – 22-30__ saatleri ar
 
 
 ## Eğitim İçeriği
-__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-21-Kasim-2022/blob/main/kurs_icerigi.md)__
+__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Subat-2024/blob/main/kurs_icerigi.md)__
 
 
 ## Format
@@ -50,4 +50,4 @@ __CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri pr
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us06web.zoom.us/meeting/register/tZwtf-uuqTMjHNwZj_SpbLT7f24qBT-Yy95T)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-__CSharp ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__
+__CSharp ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Subat-2024/blob/main/sss.md) sayfasında bulabilirsiniz. 
