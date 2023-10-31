@@ -20,7 +20,7 @@ Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız
 Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Pazartesi - Çarşamba - Cuma __ günleri saat __19-30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
+Dersler Pazartesi, Çarşamba, Cuma  günleri saat __19-30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
