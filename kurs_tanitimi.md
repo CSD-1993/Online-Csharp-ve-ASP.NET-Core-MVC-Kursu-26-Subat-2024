@@ -4,7 +4,7 @@
 
 + Kurs 12.02.2024 tarihinde başlayacaktır.
 
-+ Dersler Pazartesi, Çarşamba, Cuma günleri 19:30 - 22:30 saatleri arasında (3'er saat) yapılacaktır.
++ Dersler __Pazartesi - Çarşamba- Cuma__ günleri 19:30 - 22:30 saatleri arasında (3'er saat) yapılacaktır.
 
 + Kursta __CSharp__ programlama dilinin sentaks ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
@@ -20,7 +20,7 @@ Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız
 Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler Pazartesi, Çarşamba, Cuma  günleri saat __19-30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
+Dersler __Pazartesi - Çarşamba- Cuma__ günleri saat __19-30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
