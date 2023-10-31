@@ -4,7 +4,7 @@
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar İş birliği ile düzenlenmektedir.
 + Kurs __12 Şubat 2024 Pazartesi__ günü saat 19:30'da başlayacaktır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __160__ saattir. Dersler Pazartesi - Çarşamba - Cuma günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __160__ saattir. Dersler __Pazartesi - Çarşamba- Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 +  Kursumuzun toplam ücreti KDV dahil __16.000__ TL’dir (Peşin ödemede __14.400__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __14.400__ TL’dir (peşin ödemede __12.950__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
