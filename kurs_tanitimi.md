@@ -17,7 +17,7 @@
 Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitmen
-Aykut Taşdelen
+__Aykut Taşdelen__
 
 ## Eğitim Süresi
 Programın toplam süresi __260__ saattir. 
