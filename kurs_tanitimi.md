@@ -31,7 +31,7 @@ __[Eğitimin içeriğini bu bağlantıyı tıklayarak inceleyebilirsiniz.](https
 
 
 ## Format
-+ __CSharp ile Nesne Yönelimli Programlama kursu*__ online olarak gerçek zamanlı verilmektedir. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __C# ve ASP.NET Core MVC Kursu*__ online olarak gerçek zamanlı verilmektedir. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -39,12 +39,12 @@ __[Eğitimin içeriğini bu bağlantıyı tıklayarak inceleyebilirsiniz.](https
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama ve _CSharp_ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe’dir. Programlama ve _C# ve ASP.NET Core MVC _ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-__CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
+__C# ve ASP.NET Core MVC __ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
  + Kursumuzun toplam ücreti KDV dahil 26.000 TL’dir(Peşin ödemede 23.400 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 23.400 TL’dir (peşin ödemede 21.050 TL’dir).  Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
@@ -54,4 +54,4 @@ __CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri pr
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZwtf-uuqTMjHNwZj_SpbLT7f24qBT-Yy95T)
 
 ## Sık Sorulan Sorular
-__CSharp ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Subat-2024/blob/main/sss.md) sayfasında bulabilirsiniz. 
+__C# ve ASP.NET Core MVC Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Subat-2024/blob/main/sss.md) sayfasında bulabilirsiniz. 
