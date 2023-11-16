@@ -147,47 +147,47 @@ Sınıfların başlangıç metotları (constructors)
 +	Generic arayüzler
 +	Kısıtlamalar (constraint’s)
 +	Generic sınıflarda alt sınır ve üst sınır belirlenmesi (invariant, covariant ve contra-variant)
-# Extension metotlar
-# Delegate (Temsilci) ve Event’ler
-# Lambda İfadeleri
-# Thread ve Process Sınıfları
-# Reflection ve Metadata kavramları
-# Attribute sınıfları
-# Bit seviyesinde işlemler ve ilişkili operatörler
-# Dinamik kütüphanelerin (DLL) oluşturulması ve kullanılması
-# Dosya işlemleri
-# ADO.NET ile VeriTabanı İşlemleri
-# Asenkron Çalışma ve TPL (Task Parallel Library) 
++ Extension metotlar
++ Delegate (Temsilci) ve Event’ler
++ Lambda İfadeleri
++ Thread ve Process Sınıfları
++ Reflection ve Metadata kavramları
++ Attribute sınıfları
++ Bit seviyesinde işlemler ve ilişkili operatörler
++ Dinamik kütüphanelerin (DLL) oluşturulması ve kullanılması
++ Dosya işlemleri
++ ADO.NET ile VeriTabanı İşlemleri
++ Asenkron Çalışma ve TPL (Task Parallel Library) 
 
 # Kısım 2 (ASP.NET MVC Core ve C# ile Web Uygulamaları Geliştirmek)
-# Middleware kavramı
-# Request ve Response Manipülasyonları
-# Dependency Inversion, Inversion Of Control
-# Dependency Injection kavramı
-# Katmanlı Mimarı Kullanarak Uygulama Geliştirme
-# Repository, UnitOfWork kalıpları
-# Katmanlı mimaride exception handling
-# Razor sentaksı
-# MVC (Model ViewController) kalıbı 
-# Razor Engine ve Razor sentaksı
-# Dinamik tür sistemi ve Expando Nesneler
-# Transfer Data (ViewBag, ViewData, TempData)
-# Tag Helper’lar
-# Validasyon
-# Blazor Framework
-# Entity Framework Core ile veritabanı işlemleri
-# Container ve Docker Kavramları
-# Container ortamında ASP.NET Core uygulamalarının çalıştırılması
-# ASPNET Core Güvenlik
-# Authentication, Authorization, OAuth
-# Javascript programlama dili
-# WebAPI ile Rest Servislerin Yazılması
-# JWT (Json Web Token)
-# CQRS 
-# Mikroservis Mimarisi
-# LibMan ve Npm Paket Yönetim Sistemleri
-# Cookie (Çerezler) 
-# Session Mekanizması
-# Onion Architecture
-# RabbitMQ, MSMQ gibi mesaj kuyruklama altyapılarının kullanımı
-# Ve diğerleri
++ Middleware kavramı
++ Request ve Response Manipülasyonları
++ Dependency Inversion, Inversion Of Control
++ Dependency Injection kavramı
++ Katmanlı Mimarı Kullanarak Uygulama Geliştirme
++ Repository, UnitOfWork kalıpları
++ Katmanlı mimaride exception handling
++ Razor sentaksı
++ MVC (Model ViewController) kalıbı 
++ Razor Engine ve Razor sentaksı
++ Dinamik tür sistemi ve Expando Nesneler
++ Transfer Data (ViewBag, ViewData, TempData)
++ Tag Helper’lar
++ Validasyon
++ Blazor Framework
++ Entity Framework Core ile veritabanı işlemleri
++ Container ve Docker Kavramları
++ Container ortamında ASP.NET Core uygulamalarının çalıştırılması
++ ASPNET Core Güvenlik
++ Authentication, Authorization, OAuth
++ Javascript programlama dili
++ WebAPI ile Rest Servislerin Yazılması
++ JWT (Json Web Token)
++ CQRS 
++ Mikroservis Mimarisi
++ LibMan ve Npm Paket Yönetim Sistemleri
++ Cookie (Çerezler) 
++ Session Mekanizması
++ Onion Architecture
++ RabbitMQ, MSMQ gibi mesaj kuyruklama altyapılarının kullanımı
++ Ve diğerleri
