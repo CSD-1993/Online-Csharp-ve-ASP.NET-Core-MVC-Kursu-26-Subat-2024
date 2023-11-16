@@ -16,8 +16,11 @@
 ## Ön Koşul
 Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
 
+## Eğitmen
+Aykut Taşdelen
+
 ## Eğitim Süresi
-Programın toplam süresi __160__ saattir. 
+Programın toplam süresi __260__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler __Pazartesi - Çarşamba- Cuma__ günleri saat __19-30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
@@ -44,7 +47,8 @@ __[Eğitimin içeriğini bu bağlantıyı tıklayarak inceleyebilirsiniz.](https
 __CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
- + Kursumuzun toplam ücreti KDV dahil 16.000 TL’dir(Peşin ödemede 14.400 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 14.400 TL’dir (peşin ödemede 12.950 TL’dir).  Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+ + Kursumuzun toplam ücreti KDV dahil 26.000 TL’dir(Peşin ödemede 23.400 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 23.400 TL’dir (peşin ödemede 21.050 TL’dir).  Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+
 
 ## Eğitim Programına Kayıt
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZwtf-uuqTMjHNwZj_SpbLT7f24qBT-Yy95T)
