@@ -1,4 +1,4 @@
-# Online CSharp ile Nesne Yönelimli Programlama Kursu - Genel Tanıtım
+# Online C# ve ASP.NET Core MVC Kursu - Genel Tanıtım
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar iş birliği ile düzenlenmektedir. 
 
