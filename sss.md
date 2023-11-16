@@ -1,6 +1,6 @@
-# Online CSharp ile Nesne Yönelimli Programlama Kursu – Sık Sorulan Sorular
+# Online C# ve ASP.NET Core MVC Kursu – Sık Sorulan Sorular
 
-Aşağıda  _Online CSharp ile Nesne Yönelimli Programlama Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda  _Online C# ve ASP.NET Core MVC Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. 
@@ -17,7 +17,7 @@ Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar ku
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
 
 ### 160 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __160__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+Eğitim içeriği göz önüne alındığında __260__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Evet kursumuza yurt dışı ya da şehir dışından katılabilirsiniz.  
@@ -34,7 +34,7 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 
 + Anlamadığınız noktaları eğitmene sormalısınız.
 
-+ __CSharp ile Nesne Yönelimli Programlama Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
++ __C# ve ASP.NET Core MVC Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
