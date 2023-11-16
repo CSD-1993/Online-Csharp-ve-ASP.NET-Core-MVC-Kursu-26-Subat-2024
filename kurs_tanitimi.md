@@ -6,12 +6,9 @@
 
 + Dersler __Pazartesi - Çarşamba- Cuma__ günleri 19:30 - 22:30 saatleri arasında (3'er saat) yapılacaktır.
 
-+ Kursta __C# ve ASP.NET Core MVC__ programlama dillerinin sentaks ve semantik yapısı ayrıntılı olarak öğretilmektedir.
-
-+ Kursumuz sadece __C# ve ASP.NET Core MVC__ dillerini öğretmeyi değil, tüm programlama ortamları için temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
-
-+ Kurs süresince pek çok örnek program yazılacak olmakla beraber öğrenilen konuları pekiştirmek amacıyla sembolik bir bankacılık uygulaması da geliştirilecektir.
-
++ Bu kurs içerik bakımından iki ana kısma ayrılmıştır; C# programlama dili ve ASP.NET MVC Core framework’ü. 
+İlk kısımda C# dilinin sentaks kuralları, nesne yönelimli programlama ve .NET kütüphanesinin önemli sınıfları ele alınmaktadır. 
+İkinci kısım ise ASP.NET MVC Core isimli framework ile modern ve platform bağımsız web uygulamaları/servislerinin geliştirilmesine odaklıdır. Bu kısımda ASP.NET Core haricinde (SOLID, UML, Pattern, Idiom, AntiPattern, ...) gibi pek çok önemli konu ve teknolojiye de (Entity Framework, SQL Server, RabbitMQ, Git, ...) değinilmekte yanı sıra pek çok örnek uygulama geliştirilmektedir.
 
 ## Ön Koşul
 Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
