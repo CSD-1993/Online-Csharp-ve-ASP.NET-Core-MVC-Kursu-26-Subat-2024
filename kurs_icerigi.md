@@ -122,72 +122,72 @@ Sınıfların başlangıç metotları (constructors)
 +	sealed metotlar
 # Soyut sınıflar ve metotlar (abstract classes and methods)
 +	Soyut sınıf ve metotların anlamı
-•	Soyut metotların override edilmesi
-•	Soyut metotların override edilmemesi durumu
-•	Soyut sınıfların taban sınıf referansı olarak kullanılması
-•	Soyut sınıfların başlangıç metotları
++	Soyut metotların override edilmesi
++	Soyut metotların override edilmemesi durumu
++	Soyut sınıfların taban sınıf referansı olarak kullanılması
++	Soyut sınıfların başlangıç metotları
 # Exception Handling 
-•	Exception kavramı kullanımı
-•	throw anahtar sözcüğü ve bir exception nesnesinin fırlatılması
-•	Try/Catch/Finally mekanizması
-•	Yeniden fırlatma (rethrow)
-•	İçiçe try bloklarının bulunması durumu
-•	Özgün Exception sınıfları
-•	checked ve unchecked exception sınıfları
-•	Önemli exception sınıfları
-Arayüzler (Interface’s)
-•	Bir sınıfın desteklediği arayüzler ve metotların override edilmesi
-•	Arayüzler ile abstract sınıflar arasındaki farklar
-•	Arayüzler arası tür dönüştürme ayrıntıları
-•	Sıkça kullanılan bazı arayüzler
-Generic’ler ile Türden Bağımsız İşlemler 
-•	Generic sınıflar ve metotlar
-•	Generic sınıflarda türetme işlemleri
-•	Generic sınıflarda new operatörü ile <> (diamond syntax) kullanımı
-•	Generic arayüzler
-•	Kısıtlamalar (constraint’s)
-•	Generic sınıflarda alt sınır ve üst sınır belirlenmesi (invariant, covariant ve contra-variant)
-Extension metotlar
-Delegate (Temsilci) ve Event’ler
-Lambda İfadeleri
-Thread ve Process Sınıfları
-Reflection ve Metadata kavramları
-Attribute sınıfları
-Bit seviyesinde işlemler ve ilişkili operatörler
-Dinamik kütüphanelerin (DLL) oluşturulması ve kullanılması
-Dosya işlemleri
-ADO.NET ile VeriTabanı İşlemleri
-Asenkron Çalışma ve TPL (Task Parallel Library) 
++	Exception kavramı kullanımı
++	throw anahtar sözcüğü ve bir exception nesnesinin fırlatılması
++	Try/Catch/Finally mekanizması
++	Yeniden fırlatma (rethrow)
++	İçiçe try bloklarının bulunması durumu
++	Özgün Exception sınıfları
++	checked ve unchecked exception sınıfları
++	Önemli exception sınıfları
+# Arayüzler (Interface’s)
++	Bir sınıfın desteklediği arayüzler ve metotların override edilmesi
++	Arayüzler ile abstract sınıflar arasındaki farklar
++	Arayüzler arası tür dönüştürme ayrıntıları
++	Sıkça kullanılan bazı arayüzler
+# Generic’ler ile Türden Bağımsız İşlemler 
++	Generic sınıflar ve metotlar
++	Generic sınıflarda türetme işlemleri
++	Generic sınıflarda new operatörü ile <> (diamond syntax) kullanımı
++	Generic arayüzler
++	Kısıtlamalar (constraint’s)
++	Generic sınıflarda alt sınır ve üst sınır belirlenmesi (invariant, covariant ve contra-variant)
+# Extension metotlar
+# Delegate (Temsilci) ve Event’ler
+# Lambda İfadeleri
+# Thread ve Process Sınıfları
+# Reflection ve Metadata kavramları
+# Attribute sınıfları
+# Bit seviyesinde işlemler ve ilişkili operatörler
+# Dinamik kütüphanelerin (DLL) oluşturulması ve kullanılması
+# Dosya işlemleri
+# ADO.NET ile VeriTabanı İşlemleri
+# Asenkron Çalışma ve TPL (Task Parallel Library) 
 
-Kısım 2 (ASP.NET MVC Core ve C# ile Web Uygulamaları Geliştirmek)
-Middleware kavramı
-Request ve Response Manipülasyonları
-Dependency Inversion, Inversion Of Control
-Dependency Injection kavramı
-Katmanlı Mimarı Kullanarak Uygulama Geliştirme
-Repository, UnitOfWork kalıpları
-Katmanlı mimaride exception handling
-Razor sentaksı
-MVC (Model ViewController) kalıbı 
-Razor Engine ve Razor sentaksı
-Dinamik tür sistemi ve Expando Nesneler
-Transfer Data (ViewBag, ViewData, TempData)
-Tag Helper’lar
-Validasyon
-Blazor Framework
-Entity Framework Core ile veritabanı işlemleri
-Container ve Docker Kavramları
-Container ortamında ASP.NET Core uygulamalarının çalıştırılması
-ASPNET Core Güvenlik
-Authentication, Authorization, OAuth
-Javascript programlama dili
-WebAPI ile Rest Servislerin Yazılması
-JWT (Json Web Token)
-CQRS 
-Mikroservis Mimarisi
-LibMan ve Npm Paket Yönetim Sistemleri
-Cookie (Çerezler) 
-Session Mekanizması
-Onion Architecture
-RabbitMQ, MSMQ gibi mesaj kuyruklama altyapılarının kullanımı
-Ve diğerleri
+# Kısım 2 (ASP.NET MVC Core ve C# ile Web Uygulamaları Geliştirmek)
+# Middleware kavramı
+# Request ve Response Manipülasyonları
+# Dependency Inversion, Inversion Of Control
+# Dependency Injection kavramı
+# Katmanlı Mimarı Kullanarak Uygulama Geliştirme
+# Repository, UnitOfWork kalıpları
+# Katmanlı mimaride exception handling
+# Razor sentaksı
+# MVC (Model ViewController) kalıbı 
+# Razor Engine ve Razor sentaksı
+# Dinamik tür sistemi ve Expando Nesneler
+# Transfer Data (ViewBag, ViewData, TempData)
+# Tag Helper’lar
+# Validasyon
+# Blazor Framework
+# Entity Framework Core ile veritabanı işlemleri
+# Container ve Docker Kavramları
+# Container ortamında ASP.NET Core uygulamalarının çalıştırılması
+# ASPNET Core Güvenlik
+# Authentication, Authorization, OAuth
+# Javascript programlama dili
+# WebAPI ile Rest Servislerin Yazılması
+# JWT (Json Web Token)
+# CQRS 
+# Mikroservis Mimarisi
+# LibMan ve Npm Paket Yönetim Sistemleri
+# Cookie (Çerezler) 
+# Session Mekanizması
+# Onion Architecture
+# RabbitMQ, MSMQ gibi mesaj kuyruklama altyapılarının kullanımı
+# Ve diğerleri
