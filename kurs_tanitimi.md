@@ -8,7 +8,7 @@
 
 + Kursta __C# ve ASP.NET Core MVC Kursu__ programlama dillerinin sentaks ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
-+ Kursumuz sadece __C# ve ASP.NET Core MVC __ dillerini öğretmeyi değil, tüm programlama ortamları için temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
++ Kursumuz sadece __C# ve ASP.NET Core MVC__ dillerini öğretmeyi değil, tüm programlama ortamları için temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
 
 + Kurs süresince pek çok örnek program yazılacak olmakla beraber öğrenilen konuları pekiştirmek amacıyla sembolik bir bankacılık uygulaması da geliştirilecektir.
 
