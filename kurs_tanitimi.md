@@ -6,7 +6,7 @@
 
 + Dersler __Pazartesi - Çarşamba- Cuma__ günleri 19:30 - 22:30 saatleri arasında (3'er saat) yapılacaktır.
 
-+ Kursta __C# ve ASP.NET Core MVC Kursu__ programlama dillerinin sentaks ve semantik yapısı ayrıntılı olarak öğretilmektedir.
++ Kursta __C# ve ASP.NET Core MVC__ programlama dillerinin sentaks ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
 + Kursumuz sadece __C# ve ASP.NET Core MVC__ dillerini öğretmeyi değil, tüm programlama ortamları için temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
 
