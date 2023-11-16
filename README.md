@@ -1,4 +1,4 @@
-# Online CSharp ile Nesne Yonelimli Programlama Kursu - 12 Subat 2024
+# Online C# ve ASP.NET Core MVC Kursu-12 Şubat 2024
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar İş birliği ile düzenlenmektedir.
