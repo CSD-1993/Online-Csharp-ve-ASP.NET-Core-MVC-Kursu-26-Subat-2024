@@ -1,8 +1,8 @@
-# Online C# ve ASP.NET Core MVC Kursu-12 Şubat 2024
+# Online C# ve ASP.NET Core MVC Kursu-26 Şubat 2024
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar İş birliği ile düzenlenmektedir.
-+ Kurs __12 Şubat 2024 Pazartesi__ günü saat 19:30'da başlayacaktır.
++ Kurs __26 Şubat 2024 Pazartesi__ günü saat 19:30'da başlayacaktır.
 + Kurs gerçek zamanlıdır.
 + Eğitmen Aykut Taşdelen'dir.
 + Toplam kurs süresi __260__ saattir. Dersler __Pazartesi - Çarşamba- Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
